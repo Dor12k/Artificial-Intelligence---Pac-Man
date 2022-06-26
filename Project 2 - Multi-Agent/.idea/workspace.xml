@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b6a6c86-8ce5-4657-9722-c9194f2d46a8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1065391054">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/multiagent/multiAgents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#555#842#1" />
+                <element signature="e#883#1691#0" />
+                <element signature="e#883#1201#1" />
+                <element signature="e#1755#2665#1" />
+                <element signature="e#2867#3149#0" />
+                <element signature="e#2867#3112#1" />
+                <element signature="e#3189#3989#0" />
+                <element signature="e#3189#3776#1" />
+                <element signature="e#4036#4822#0" />
+                <element signature="e#5791#6384#1" />
+                <element signature="e#4871#5125#0" />
+                <element signature="e#4871#4940#1" />
+                <element signature="e#4980#5125#0" />
+                <element signature="e#4980#5069#1" />
+                <element signature="e#5175#5509#0" />
+                <element signature="e#5175#5223#1" />
+                <element signature="e#5263#5509#0" />
+                <element signature="e#5263#5453#1" />
+                <element signature="e#5561#5800#0" />
+                <element signature="e#5561#5748#1" />
+                <element signature="e#5897#6424#0" />
+                <element signature="e#5897#5942#1" />
+                <element signature="e#5982#6424#0" />
+                <element signature="e#5982#6368#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../multiAgents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="162" column="7" lean-forward="true" selection-start-line="162" selection-start-column="7" selection-end-line="162" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#798#4901#0" />
+                <element signature="e#798#1097#1" />
+                <element signature="e#1144#2008#0" />
+                <element signature="e#1144#1482#1" />
+                <element signature="e#2078#4901#0" />
+                <element signature="e#4955#5249#0" />
+                <element signature="e#4955#5210#1" />
+                <element signature="e#5291#6125#0" />
+                <element signature="e#5291#5898#1" />
+                <element signature="e#5981#6125#0" />
+                <element signature="e#6269#6884#1" />
+                <element signature="e#7829#7879#0" />
+                <element signature="e#8714#8858#0" />
+                <element signature="e#9063#11759#0" />
+                <element signature="e#9063#9136#1" />
+                <element signature="e#9182#9550#0" />
+                <element signature="e#9182#9279#1" />
+                <element signature="e#9646#10479#0" />
+                <element signature="e#9993#10479#0" />
+                <element signature="e#10123#10445#0" />
+                <element signature="e#10316#10445#0" />
+                <element signature="e#10575#11729#0" />
+                <element signature="e#10886#11660#0" />
+                <element signature="e#11012#11660#0" />
+                <element signature="e#11294#11450#0" />
+                <element signature="e#11670#11690#0" />
+                <element signature="e#11811#14208#0" />
+                <element signature="e#11811#11863#1" />
+                <element signature="e#11909#12319#0" />
+                <element signature="e#11909#12115#1" />
+                <element signature="e#12402#13145#0" />
+                <element signature="e#12749#13145#0" />
+                <element signature="e#12878#13110#0" />
+                <element signature="e#13060#13110#0" />
+                <element signature="e#13233#14208#0" />
+                <element signature="e#13544#14120#0" />
+                <element signature="e#13670#14120#0" />
+                <element signature="e#13942#14085#0" />
+                <element signature="e#11307#11558#0" />
+                <element signature="e#11307#11502#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/multiagent/multiAgents.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="912" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="multiagent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multiagent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multiagent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multiagent" type="462c0819:PsiDirectoryNode" />
+              <item name="multiagent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="aslist&#9;null&#9;null&#10;refl&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../multiAgents.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b6a6c86-8ce5-4657-9722-c9194f2d46a8" name="Default Changelist" comment="" />
+      <created>1656277998688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656277998688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="687" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/multiagent/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="202" column="6" selection-start-line="202" selection-start-column="6" selection-end-line="202" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../multiAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="162" column="7" lean-forward="true" selection-start-line="162" selection-start-column="7" selection-end-line="162" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#798#4901#0" />
+            <element signature="e#798#1097#1" />
+            <element signature="e#1144#2008#0" />
+            <element signature="e#1144#1482#1" />
+            <element signature="e#2078#4901#0" />
+            <element signature="e#4955#5249#0" />
+            <element signature="e#4955#5210#1" />
+            <element signature="e#5291#6125#0" />
+            <element signature="e#5291#5898#1" />
+            <element signature="e#5981#6125#0" />
+            <element signature="e#6269#6884#1" />
+            <element signature="e#7829#7879#0" />
+            <element signature="e#8714#8858#0" />
+            <element signature="e#9063#11759#0" />
+            <element signature="e#9063#9136#1" />
+            <element signature="e#9182#9550#0" />
+            <element signature="e#9182#9279#1" />
+            <element signature="e#9646#10479#0" />
+            <element signature="e#9993#10479#0" />
+            <element signature="e#10123#10445#0" />
+            <element signature="e#10316#10445#0" />
+            <element signature="e#10575#11729#0" />
+            <element signature="e#10886#11660#0" />
+            <element signature="e#11012#11660#0" />
+            <element signature="e#11294#11450#0" />
+            <element signature="e#11670#11690#0" />
+            <element signature="e#11811#14208#0" />
+            <element signature="e#11811#11863#1" />
+            <element signature="e#11909#12319#0" />
+            <element signature="e#11909#12115#1" />
+            <element signature="e#12402#13145#0" />
+            <element signature="e#12749#13145#0" />
+            <element signature="e#12878#13110#0" />
+            <element signature="e#13060#13110#0" />
+            <element signature="e#13233#14208#0" />
+            <element signature="e#13544#14120#0" />
+            <element signature="e#13670#14120#0" />
+            <element signature="e#13942#14085#0" />
+            <element signature="e#11307#11558#0" />
+            <element signature="e#11307#11502#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiagent/multiAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#555#842#1" />
+            <element signature="e#883#1691#0" />
+            <element signature="e#883#1201#1" />
+            <element signature="e#1755#2665#1" />
+            <element signature="e#2867#3149#0" />
+            <element signature="e#2867#3112#1" />
+            <element signature="e#3189#3989#0" />
+            <element signature="e#3189#3776#1" />
+            <element signature="e#4036#4822#0" />
+            <element signature="e#5791#6384#1" />
+            <element signature="e#4871#5125#0" />
+            <element signature="e#4871#4940#1" />
+            <element signature="e#4980#5125#0" />
+            <element signature="e#4980#5069#1" />
+            <element signature="e#5175#5509#0" />
+            <element signature="e#5175#5223#1" />
+            <element signature="e#5263#5509#0" />
+            <element signature="e#5263#5453#1" />
+            <element signature="e#5561#5800#0" />
+            <element signature="e#5561#5748#1" />
+            <element signature="e#5897#6424#0" />
+            <element signature="e#5897#5942#1" />
+            <element signature="e#5982#6424#0" />
+            <element signature="e#5982#6368#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

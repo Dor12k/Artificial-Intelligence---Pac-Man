@@ -18,3 +18,5 @@ Project 1
 
         8. Question : Suboptimal Search
 
+All the project description and questions: http://ai.berkeley.edu/search.html
+

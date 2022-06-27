@@ -1,2 +1,2 @@
-# Artificial-Intelligence---Pac-Man
-s
+# Artificial Intelligence - Pac-Man
+

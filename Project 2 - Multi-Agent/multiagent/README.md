@@ -10,5 +10,3 @@ Project 2
 
         4. Question : Expectimax
 
-        5. Question : Evaluation Function
-

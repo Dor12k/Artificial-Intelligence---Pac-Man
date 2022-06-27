@@ -1,13 +1,20 @@
-Project 2
+Project 1
 
-    Multi-Agent Pacman
+    Search in Pacman
 
-        1. Question : Reflex Agent
+        1. Question : Finding a Fixed Food Dot using Depth First Search
 
-        2. Question : Minimax
+        2. Question : Breadth First Search
 
-        3. Question : Alpha-Beta Pruning
+        3. Question : Varying the Cost Function
 
-        4. Question : Expectimax
+        4. Question : A* search
 
-        5. Question : Evaluation Function
+        5. Question : Finding All the Corners
+
+        6. Question : Corners Problem: Heuristic
+
+        7. Question : Eating All The Dots
+
+        8. Question : Suboptimal Search
+

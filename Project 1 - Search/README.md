@@ -2,13 +2,12 @@ Project 2
 
     Multi-Agent Pacman
 
-        Question : Reflex Agent
+        1. Question : Reflex Agent
 
-        Question : Minimax
+        2. Question : Minimax
 
-        Question : Alpha-Beta Pruning
+        3. Question : Alpha-Beta Pruning
 
-        Question : Expectimax
+        4. Question : Expectimax
 
-        Question : Evaluation Function
-
+        5. Question : Evaluation Function

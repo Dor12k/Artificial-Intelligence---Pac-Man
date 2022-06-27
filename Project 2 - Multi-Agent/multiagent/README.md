@@ -10,3 +10,4 @@ Project 2
 
         4. Question : Expectimax
 
+All the project description and questions: http://ai.berkeley.edu/multiagent.html

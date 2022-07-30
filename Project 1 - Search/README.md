@@ -17,7 +17,7 @@ Project 1
         7. Question : Eating All The Dots
 
         8. Question : Suboptimal Search
+        
+The answers to the questions in "pacman.py".
 
 All the project description and questions: http://ai.berkeley.edu/search.html
-
-The answers to the questions in "pacman.py".

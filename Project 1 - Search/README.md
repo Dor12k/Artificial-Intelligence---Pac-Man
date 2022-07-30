@@ -20,3 +20,4 @@ Project 1
 
 All the project description and questions: http://ai.berkeley.edu/search.html
 
+The answers to the questions in "pacman.py".

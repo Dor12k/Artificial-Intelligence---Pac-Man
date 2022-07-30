@@ -10,4 +10,6 @@ Project 2
 
         4. Question : Expectimax
 
+The answers to the questions in "multiAgents.py".
+
 All the project description and questions: http://ai.berkeley.edu/multiagent.html
